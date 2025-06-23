@@ -2,7 +2,8 @@
 
 A Python-based GUI network utility built with Tkinter, designed for DNS resolution, port scanning, ping tests, WHOIS lookups, mail record checks, and simulated DDoS testing.
 
----
+## ⚠️ Disclaimer
+**This project is intended for educational and non-commercial use only.** It is not recommended for deployment in professional or production environments. The tool is best suited for students, hobbyists, or those exploring networking concepts in a controlled setting.
 
 ## 🚀 Table of Contents
 1. [Prerequisites](#prerequisites)
