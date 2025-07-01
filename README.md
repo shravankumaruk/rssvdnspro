@@ -158,7 +158,9 @@ Your support motivates further improvements and features!
 This project is licensed under the GNU General Public License v3.0 (GPL-3.0). You are free to use, share, and modify this software under the terms of the GPL-3.0. See [LICENSE.md](LICENSE.md) for the full license text.
 
 ---
-**Installer for Windows is under build and will be available soon.**
+> [!NOTE]
+> **Installer for Windows is under build and will be available soon.**
+
 
 
 *Happy networking!*
